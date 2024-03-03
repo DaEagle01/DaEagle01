@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahad Bin Karim</h1>
 <h3 align="center">A Frontend Developer specializing in React ecosystem with 2 years of experience. I've contributed to impactful projects and have a proven track record of improving platform performance and user engagement. Let's connect and code the future!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daeagle01" alt="daeagle01" /></a> </p>
-
 - 🔭 I’m currently **exploring new employment possibilities**
 
 - 🌱 I’m currently learning **advance web animation**
