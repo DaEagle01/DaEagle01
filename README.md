@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahad Bin Karim</h1>
-<h3 align="center">A Frontend Developer specializing in React ecosystem with 2 years of experience. I've contributed to impactful projects and have a proven track record of improving platform performance and user engagement. Let's connect and code the future!</h3>
+<h3 align="center">A Frontend Developer specializing in React and Next.js ecosystem. I've contributed to impactful projects and have a proven track record of improving platform performance and user engagement. Let's connect and code the future!</h3>
 
 - 🔭 I’m currently **exploring new employment possibilities**
 
