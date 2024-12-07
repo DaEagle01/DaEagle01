@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **exploring new employment possibilities**
 
-- 🌱 I’m currently learning **advance web animation**
+- 🌱 I’m currently learning **PostgresSQL**
 
 - 👨‍💻 All of my projects are available at [https://fahad-bin-karim.vercel.app/](https://fahad-bin-karim.vercel.app/)
 
