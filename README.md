@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fahad Bin Karim</h1>
-<h3 align="center">A Frontend Developer specializing in React and Next.js ecosystem. I've contributed to impactful projects and have a proven track record of improving platform performance and user engagement. Let's connect and code the future!</h3>
+<h3 align="center">A Full Stack Developer specializing in React and Next.js ecosystem. I've contributed to impactful projects and have a proven track record of improving platform performance and user engagement. Let's connect and code the future!</h3>
 
 - 🔭 I’m currently **exploring new employment possibilities**
 
-- 🌱 I’m currently learning **PostgresSQL**
+- 🌱 I’m currently learning **PostgresSQL** and **Prisma**
 
 - 👨‍💻 All of my projects are available at [https://fahad-bin-karim.vercel.app/](https://fahad-bin-karim.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@fbinkarim01](https://medium.com/@fbinkarim01)
 
-- 💬 Ask me about **React, Next.js, Redux, Tanstack React Query**
+- 💬 Ask me about **React, Next.js, Redux, Tanstack React Query, Node.js, Express.js, MongoDB, PostgreSQL, Prisma**
 
 - 👯 I’m looking - To collaborate on open-source projects.
 
