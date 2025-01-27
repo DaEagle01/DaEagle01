@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CkY6j5RtTTgXzv7YwV-V3IKKZjlwMgYz/view](https://drive.google.com/file/d/1CkY6j5RtTTgXzv7YwV-V3IKKZjlwMgYz/view)
 
-- ⚡ Fun fact **I am a fast bowler and I can speak 4 languages**
+- ⚡ Fun fact **I am a fast bowler.**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -111,5 +111,3 @@
 </div>
 
 ###
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daeagle01&" alt="daeagle01" /></p>
