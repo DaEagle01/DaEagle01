@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently **exploring new employment possibilities**
 
-- 🌱 I’m currently learning **PostgresSQL** and **Prisma**
+- 🌱 I’m currently specializing in **Microfrontend architecture** and **Webpack Module Federation**, designing and building modular, scalable frontends for enterprise-scale distributed teams.
 
 - 👨‍💻 All of my projects are available at [https://fahad-bin-karim.vercel.app/](https://fahad-bin-karim.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@fbinkarim01](https://medium.com/@fbinkarim01)
 
-- 💬 Ask me about **React, Next.js, Redux, Tanstack React Query, Node.js, Express.js, MongoDB, PostgreSQL, Prisma**
+- 💬 Ask me about **React, Next.js, Redux, MobX, Zustand, RTK Query, Tanstack React Query, Microfrontend architecture, Webpack Module Federation, Frontend Architecture**
 
 - 👯 I’m looking - To collaborate on open-source projects.
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CkY6j5RtTTgXzv7YwV-V3IKKZjlwMgYz/view](https://drive.google.com/file/d/1CkY6j5RtTTgXzv7YwV-V3IKKZjlwMgYz/view)
 
-- ⚡ Fun fact **I am a fast bowler.**
+- ⚡ Fun fact **I’m a fast bowler and I ship frontends just as fast.**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
