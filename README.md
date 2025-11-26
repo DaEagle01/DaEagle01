@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fahad Bin Karim</h1>
-<h3 align="center">A Full Stack Developer specializing in React and Next.js ecosystem. I've contributed to impactful projects and have a proven track record of improving platform performance and user engagement. Let's connect and code the future!</h3>
+<h3 align="center">A Full Stack Developer specializing in React, Next.js, NestJS, and PostgreSQL. Building scalable applications with proven expertise in both frontend architecture and backend systems. Let's connect and build something amazing!</h3>
 
 - 🔭 I’m currently **exploring new employment possibilities**
 
-- 🌱 I’m currently specializing in **Microfrontend architecture** and **Webpack Module Federation**, designing and building modular, scalable frontends for enterprise-scale distributed teams.
+- 🌱 I'm currently diving deep into backend development with NestJS and PostgreSQL, building robust RESTful APIs and mastering server-side architecture for scalable enterprise applications.
 
 - 👨‍💻 All of my projects are available at [https://fahad-bin-karim.vercel.app/](https://fahad-bin-karim.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@fbinkarim01](https://medium.com/@fbinkarim01)
 
-- 💬 Ask me about **React, Next.js, Redux, MobX, Zustand, RTK Query, Tanstack React Query, Microfrontend architecture, Webpack Module Federation, Frontend Architecture**
+- 💬 Ask me about **React, Next.js, Redux, MobX, Zustand, RTK Query, Tanstack Query, Microfrontend architecture, Webpack Module Federation, Frontend Architecture, NestJS, PostgreSQL, TypeScript, API Design**
 
 - 👯 I’m looking - To collaborate on open-source projects.
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CkY6j5RtTTgXzv7YwV-V3IKKZjlwMgYz/view](https://drive.google.com/file/d/1CkY6j5RtTTgXzv7YwV-V3IKKZjlwMgYz/view)
 
-- ⚡ Fun fact **I’m a fast bowler and I ship frontends just as fast.**
+- ⚡ Fun fact **I’m a fast bowler and I ship full-stack features just as fast.**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -56,6 +56,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
@@ -78,19 +82,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="30" alt="less logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
   <img width="12" />
@@ -100,7 +98,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jamstack/F0047F" height="30" alt="jamstack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" height="30" alt="swagger logo" />
+  <img width="12" />
 </div>
 
 ###
